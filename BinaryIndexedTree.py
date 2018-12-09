@@ -1,3 +1,5 @@
+#BinaryIndexedTree update elements and calculate prefix sums in a array of numbers.
+##complexity O(nlogn) 
 def getSum(BITTree,i):
 	s=0
 	while i>0:
